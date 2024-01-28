@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/name-name-wedding/static/css/main.a7e6f613.css",
+    "main.js": "/name-name-wedding/static/js/main.344ab914.js",
+    "static/js/668.a27fd070.chunk.js": "/name-name-wedding/static/js/668.a27fd070.chunk.js",
+    "static/media/img03.jpg": "/name-name-wedding/static/media/img03.d4bf6507b3087830fb5b.jpg",
+    "static/media/img05.jpg": "/name-name-wedding/static/media/img05.b3dc29e8f8dbdc7c3f57.jpg",
+    "static/media/img06.jpg": "/name-name-wedding/static/media/img06.f95281fb73885e6c1b5c.jpg",
+    "static/media/img09.jpg": "/name-name-wedding/static/media/img09.e59534ab56a2c755026d.jpg",
+    "static/media/img08.jpg": "/name-name-wedding/static/media/img08.93c7cd8a83c4fcb4ed9c.jpg",
+    "static/media/img02.jpg": "/name-name-wedding/static/media/img02.673881198bbcd6f210e0.jpg",
+    "static/media/main.jpg": "/name-name-wedding/static/media/main.62b40bef20070384aa57.jpg",
+    "static/media/img04.jpg": "/name-name-wedding/static/media/img04.ac46a53290b3fe2bf32e.jpg",
+    "static/media/img07.jpg": "/name-name-wedding/static/media/img07.721e22ea1ededba689b9.jpg",
+    "static/media/img01.jpg": "/name-name-wedding/static/media/img01.b55dcb5a3a06f416eda4.jpg",
+    "index.html": "/name-name-wedding/index.html",
+    "main.a7e6f613.css.map": "/name-name-wedding/static/css/main.a7e6f613.css.map",
+    "main.344ab914.js.map": "/name-name-wedding/static/js/main.344ab914.js.map",
+    "668.a27fd070.chunk.js.map": "/name-name-wedding/static/js/668.a27fd070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7e6f613.css",
+    "static/js/main.344ab914.js"
+  ]
+}
